@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
